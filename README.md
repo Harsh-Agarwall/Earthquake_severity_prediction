@@ -1,0 +1,1 @@
+# Earthquake_severity_prediction
